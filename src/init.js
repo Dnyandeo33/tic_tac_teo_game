@@ -1,5 +1,6 @@
-// import your listeners(events)
+import { startGame } from "./dom.js";
+import { restartGame } from "./events/restartGame.js";
 
-import sumListener from './events/sumListener.js';
 
-sumListener();
+restartGame()
+startGame()
