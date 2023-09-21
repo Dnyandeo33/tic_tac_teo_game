@@ -7,6 +7,9 @@
     "test": "jest",
     "format": "prettier --write ./"
   },
+  "jest": {
+    "testEnvironment": "jsdom"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

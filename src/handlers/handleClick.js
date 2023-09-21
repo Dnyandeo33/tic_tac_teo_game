@@ -1,4 +1,4 @@
-import { changeTurn, clapMusic, gameOverMusic, playerTurn, turnMusic } from "../dom.js"
+import { changeTurn, clapMusic, gameOverMusic, playerTurn, turnMusic } from "../data/vairables.js"
 import { disableClick } from "../events/disableClick.js"
 import { checkScore } from "./checkScore.js"
 import { checkTie } from "./checkTie.js"
